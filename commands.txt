@@ -1,0 +1,18 @@
+This are the all basic commands of the GIT
+
+git status -> this command will give status 
+of files
+
+git stash -> It will stage all the files 
+
+git stash pop -> it will undo the staging 
+
+git stash clear -> It will clear the all staged 
+files
+
+git restore <log.ID> -> It will undo the operation 
+from particular log
+
+git add. -> it will do staging of all the files
+
+git commit <FileName> -> It will commit the files
