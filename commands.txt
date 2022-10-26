@@ -1,4 +1,5 @@
-This are the all basic commands of the GIT
+Basic commands of the GIT
+************************************************
 
 git status -> this command will give status 
 of files
