@@ -17,3 +17,15 @@ from particular log
 git add. -> it will do staging of all the files
 
 git commit <FileName> -> It will commit the files
+
+git branch <BranchName> -> It will create a branch
+
+git checkout <BranchName> -> It will take to 
+mentioned branch location brnach
+
+git merge <BranchName> -> It will merge the 
+branche to main
+
+git clone <URL>  -> Cloning exisitng URL
+
+git rebase -i <log>  -> it will rebase the code
